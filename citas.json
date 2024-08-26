@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Naruto",
+    "edad": "5 años",
+    "tipo": "Perro",
+    "color": "Marrón",
+    "enfermedad": "Vómito"
+  },
+  {
+    "nombre": "Sasuke",
+    "edad": "2 años",
+    "tipo": "hamster",
+    "color": "marron",
+    "enfermedad": "diarrea"
+  },
+  {
+    "nombre": "Kakashi",
+    "edad": "3 años",
+    "tipo": "pajarito",
+    "color": "azul",
+    "enfermedad": "gripe"
+  },
+  {
+    "nombre": "Jiraya",
+    "edad": "1 año",
+    "tipo": "gato",
+    "color": "verde",
+    "enfermedad": "alergia"
+  },
+  {
+    "nombre": "Orochimaru",
+    "edad": "3 años",
+    "tipo": "perro",
+    "color": "negro",
+    "enfermedad": "malestar"
+  }
+]
